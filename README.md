@@ -1,7 +1,9 @@
 
-  # EHR Integration Flow-v1-ai(Copy)
+  # EHR Integration Flow-v1-ai
 
   This is a code bundle for EHR Integration Flow.
+
+  view at live site: [Link](https://subneo101.github.io/ehr-poc-ai/)
 
   ## Running the code
 
